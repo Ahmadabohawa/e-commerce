@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/e-commerce/static/css/main.d42f5010.css",
-    "main.js": "/e-commerce/static/js/main.20ce6094.js",
-    "static/js/787.46493d11.chunk.js": "/e-commerce/static/js/787.46493d11.chunk.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/e-commerce/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/e-commerce/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/e-commerce/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/e-commerce/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/e-commerce/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/e-commerce/index.html",
-    "main.d42f5010.css.map": "/e-commerce/static/css/main.d42f5010.css.map",
-    "main.20ce6094.js.map": "/e-commerce/static/js/main.20ce6094.js.map",
-    "787.46493d11.chunk.js.map": "/e-commerce/static/js/787.46493d11.chunk.js.map"
+    "main.css": "/static/css/main.d0277fd6.css",
+    "main.js": "/static/js/main.be5fa2eb.js",
+    "static/js/787.46493d11.chunk.js": "/static/js/787.46493d11.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/index.html",
+    "main.d0277fd6.css.map": "/static/css/main.d0277fd6.css.map",
+    "main.be5fa2eb.js.map": "/static/js/main.be5fa2eb.js.map",
+    "787.46493d11.chunk.js.map": "/static/js/787.46493d11.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d42f5010.css",
-    "static/js/main.20ce6094.js"
+    "static/css/main.d0277fd6.css",
+    "static/js/main.be5fa2eb.js"
   ]
 }
